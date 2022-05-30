@@ -1,4 +1,3 @@
-import React, { useEffect, useState } from 'react';
 import useInput from './useInput';
 
 const SimpleInput = (props) => {
